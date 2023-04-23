@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46cc4db9.css",
+    "main.js": "/static/js/main.cf55304b.js",
+    "static/js/787.e253fc0a.chunk.js": "/static/js/787.e253fc0a.chunk.js",
+    "static/media/madal_3.png": "/static/media/madal_3.ec1139abe249fb12a13a.png",
+    "static/media/madal_1.png": "/static/media/madal_1.d3c8f37b1c05431cb9f9.png",
+    "static/media/madal_2.png": "/static/media/madal_2.676ab7bf6c24e4092b7c.png",
+    "index.html": "/index.html",
+    "main.46cc4db9.css.map": "/static/css/main.46cc4db9.css.map",
+    "main.cf55304b.js.map": "/static/js/main.cf55304b.js.map",
+    "787.e253fc0a.chunk.js.map": "/static/js/787.e253fc0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46cc4db9.css",
+    "static/js/main.cf55304b.js"
+  ]
+}
